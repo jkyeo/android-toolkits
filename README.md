@@ -1,6 +1,6 @@
 # AndroidToolKits
 
-[![](https://jitpack.io/v/jkyeo/AndroidToolKits.svg)](https://jitpack.io/#jkyeo/AndroidToolKits)
+[![](https://jitpack.io/v/jkyeo/android-toolkits.svg)](https://jitpack.io/#jkyeo/android-toolkits)
 
 A super collection of android tool class such as DateTimeUtils, Base64Utils and so on.
 
