@@ -24,7 +24,6 @@ Step 2. Add the dependency
 
 ```gradle
 dependencies {
-	        compile 'com.github.jkyeo:AndroidToolKits:v1.0'
+	        compile 'com.github.jkyeo:android-toolkits:v0.9.2'
 	}
 ```
-
