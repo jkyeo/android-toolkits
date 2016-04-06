@@ -9,6 +9,7 @@ A super collection of android tool class such as DateTimeUtils, Base64Utils and 
 ## Usage
 
 Step 1. Add the JitPack repository to your build file
+
 Add it in your root build.gradle at the end of repositories:
 
 ```gradle
