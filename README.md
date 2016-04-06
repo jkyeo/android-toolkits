@@ -1,4 +1,30 @@
 # AndroidToolKits
+
+[![](https://jitpack.io/v/jkyeo/AndroidToolKits.svg)](https://jitpack.io/#jkyeo/AndroidToolKits)
+
 A super collection of android tool class such as DateTimeUtils, Base64Utils and so on.
 
-https://jitpack.io/#jkyeo/AndroidToolKits/v1.0
+## Components
+
+## Usage
+
+Step 1. Add the JitPack repository to your build file
+Add it in your root build.gradle at the end of repositories:
+
+```gradle
+allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
+```
+
+Step 2. Add the dependency
+
+```gradle
+dependencies {
+	        compile 'com.github.jkyeo:AndroidToolKits:v1.0'
+	}
+```
+
